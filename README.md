@@ -4,3 +4,4 @@ Algorithms
 2. Karatsuba Multiplication
 3. Selection Sort
 4. Insertion Sort
+5. Bubble Sort
