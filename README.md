@@ -5,3 +5,4 @@ Algorithms
 3. Selection Sort
 4. Insertion Sort
 5. Bubble Sort
+6. Merge Sort
